@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Documents\Maximum\FindMaxProblem\FindMaxProblem\obj\Debug\net6.0\FindMaxProblem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\Maximum\FindMaxProblem\FindMaxProblem\obj\Debug\net6.0\FindMaxProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Maximum\FindMaxProblem\FindMaxProblem\obj\Debug\net6.0\FindMaxProblem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Maximum\FindMaxProblem\FindMaxProblem\obj\Debug\net6.0\FindMaxProblem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Maximum\FindMaxProblem\FindMaxProblem\obj\Debug\net6.0\FindMaxProblem.csproj.CoreCompileInputs.cache
